@@ -2,7 +2,7 @@
 # DeepLX CLI Translator with Fallback 🚀
 
 
-A command-line tool to translate text using DeepL translation services. It prioritizes a primary DeepLX API endpoint (requiring an API key and doesn't, you decide) and gracefully falls back to a list of public DeepLX-like endpoints if the primary fails.
+A command-line tool to translate text using DeepL translation services. It prioritizes a primary DeepLX API endpoint (doesn't really require the api key, you decide) and gracefully falls back to a list of public DeepLX-like endpoints if the primary fails.
 
 ## ✨ Key Features
 
