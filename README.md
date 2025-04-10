@@ -1,3 +1,4 @@
+(use a script that is the latest in the releases)
 ❗ readme was made by AI and reviewed by @kolqvr
 # DeepLX CLI Translator with Fallback 🚀
 
