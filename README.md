@@ -1,3 +1,4 @@
+# that README is outdated, i don't see any people on my github, any questions or ask help at issues tab or at socials.
 (use a script that is the latest in the releases)
 
 ❗ readme was made by AI and reviewed by @kolqvr
